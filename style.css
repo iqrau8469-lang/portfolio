@@ -67,11 +67,11 @@ button{
     padding:12px 25px;
     border:none;
     border-radius:25px;
-    background:#38bdf8;
-    color:white;
+    background:#38f858;
+    color:rgb(255, 255, 255);
     cursor:pointer;
     font-size:16px;
-    transitio.2s;
+     transition: all ease 0.5s;
 }
 
 button:hover{
