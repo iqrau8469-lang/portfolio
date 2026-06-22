@@ -71,7 +71,7 @@ button{
     color:white;
     cursor:pointer;
     font-size:16px;
-    transition: all linear .2s;
+    transitio.2s;
 }
 
 button:hover{
